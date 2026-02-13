@@ -1,5 +1,8 @@
 ---
 title: Welcome to my first blog!
+auther: SW
+discription: Welcome site disription
+markdown: GFM
 ---
 
 This is the homepage for my very first blog.
