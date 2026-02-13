@@ -2,3 +2,4 @@ theme: minima
 title: My First Blog!!
 auther: SW
 description: This is a discription.
+markdown: GFM #or kramdown
